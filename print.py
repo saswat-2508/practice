@@ -1,5 +1,10 @@
-a = 10
+a = 30
 print(a)
-a = 10
+a = 50
 print(a)
-    
+
+name = "priiiii"
+print(name)  
+
+name = "sti"
+print(name)
