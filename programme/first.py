@@ -1,0 +1,2 @@
+name ="sas"
+print(name)
