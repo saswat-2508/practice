@@ -6,5 +6,4 @@ print(a)
 name = "priiiii"
 print(name)  
 
-name = "sti"
-print(name)
+
