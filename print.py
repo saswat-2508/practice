@@ -3,7 +3,6 @@ print(a)
 a = 50
 print(a)
 
-name = "priiiii"
-print(name)  
-
+n = "priiiii"
+print(n)  
 
